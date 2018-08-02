@@ -33,7 +33,7 @@ module.exports = function (controller) {
           ? getPrettyRanking(topNinjas.users)
           : `[no users have any scores yet]`
         const prettyThings = topNinjas.things && topNinjas.things.length
-          ? getPrettyRanking(topNinjas.users)
+          ? getPrettyRanking(topNinjas.things)
           : `[no things have any scores yet]`
 
         bot.reply(
