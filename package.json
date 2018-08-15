@@ -10,6 +10,7 @@
     "@google-cloud/datastore": "^1.4.1",
     "body-parser": "^1.18.3",
     "botkit": "^0.6.16",
+    "jsonwebtoken": "8.3.0",
     "botkit-storage-mongo": "^1.0.6",
     "cookie-parser": "^1.4.3",
     "debug": "^2.3.3",

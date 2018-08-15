@@ -1,10 +1,10 @@
 # Shuriken
-A bot that gives out ninja start! (aka `shuriken`)
+A bot that gives out ninja start! (aka [`shuriken`](https://en.wikipedia.org/wiki/Shuriken))
 
-> based on [botkit-starter-slack](https://github.com/howdyai/botkit-starter-slack) the docs should contain helpful tips
+> based on [botkit-starter-slack](https://github.com/howdyai/botkit-starter-slack). The docs should contain helpful tips
 
 #### Set up your Slack Application 
-Once you have setup your Botkit development enviroment, the next thing you will want to do is set up a new Slack application via the [Slack developer portal](https://api.slack.com/). This is a multi-step process, but only takes a few minutes. 
+Once you have setup your Botkit development environment, the next thing you will want to do is set up a new Slack application via the [Slack developer portal](https://api.slack.com/). This is a multi-step process, but only takes a few minutes. 
 
 * [Read this step-by-step guide](https://botkit.ai/docs/provisioning/slack-events-api.html) to make sure everything is set up. 
 
