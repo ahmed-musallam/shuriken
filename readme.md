@@ -10,9 +10,21 @@ Once you have setup your Botkit development environment, the next thing you will
 
 * [Read this step-by-step guide](https://botkit.ai/docs/provisioning/slack-events-api.html) to make sure everything is set up. 
 
+Add a `.env` file (literally called `.env`) and add the following:
+```
+# Environment Config
+
+clientId=
+clientSecret=
+PORT=   # defaults to 3000
+DEBUG=* # if you want to see all debug logs, remove if otherwise
+
+# note: .env is a shell file so there can’t be spaces around =
+```
+
 Update the `.env` file with your newly acquired tokens.
 
-Launch your bot application by typing:
+Launch your bot application:
 
 `node .`
 
