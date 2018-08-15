@@ -1,3 +1,4 @@
+![Shuriken Logo](logo.png)
 # Shuriken
 A bot that gives out ninja start! (aka [`shuriken`](https://en.wikipedia.org/wiki/Shuriken))
 
