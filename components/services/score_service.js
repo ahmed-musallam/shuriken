@@ -2,7 +2,7 @@ const ScoreStorage = require('../score_storage')
 const NinjaType = require('../ninja_type')
 
 module.exports = function (controller) {
-  controller.score_service = new ScoreService(controller);
+  controller.score_service = new ScoreService(controller)
 }
 
 class ScoreService {
